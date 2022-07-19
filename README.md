@@ -1,4 +1,2 @@
-![Food list](./food.jpg)
-![Drink list](./drink.jpg)
-<img src="./food.jpg" alt="Food list" width="200" />
-<img src="./drink.jpg" alt="Food list" width="200" />
+<img src="./food.jpg" alt="Food list" width="400" />
+<img src="./drink.jpg" alt="Drink list" width="400" />
